@@ -248,6 +248,18 @@ footer {
   height: auto;
   border-radius: 10px;
 }
+.home .walk .walk-text .button {
+  background-color: #040c29;
+  border: none;
+  color: white;
+  padding: 10px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  border-radius: 4px;
+  font-family: 'Source Sans Pro', sans-serif;
+}
 @media (max-width: 500px) {
   .sky {
     display: none;
@@ -292,5 +304,17 @@ footer {
   .home .walk .walk-img {
     width: 100%;
     margin-left: 0%;
+  }
+  .home .walk .walk-text .button {
+    background-color: #040c29;
+    border: none;
+    color: white;
+    padding: 10px 195px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    border-radius: 4px;
+    font-family: 'Source Sans Pro', sans-serif;
   }
 }
