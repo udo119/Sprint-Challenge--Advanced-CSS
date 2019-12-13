@@ -260,6 +260,10 @@ footer {
   border-radius: 4px;
   font-family: 'Source Sans Pro', sans-serif;
 }
+.home .walk .walk-text .button:hover {
+  background-color: skyblue;
+  color: black;
+}
 @media (max-width: 500px) {
   .sky {
     display: none;
